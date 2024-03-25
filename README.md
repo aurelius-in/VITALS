@@ -59,5 +59,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Email: oliveraellison@gmail.com 
-Project Link: [https://github.com/aurelius-in/VITALS](https://github.com/aurelius-in/VITALS)
+###### Email: oliveraellison@gmail.com 
+###### Project Link: [https://github.com/aurelius-in/VITALS](https://github.com/aurelius-in/VITALS)
